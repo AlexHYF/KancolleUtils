@@ -1,6 +1,6 @@
 # KancolleUtils
 
---
+
 
 ### What's KanColle
 
@@ -16,7 +16,7 @@ Kan Colle (Kantai Collection) is a sea war simulating games in which you act as 
 
 Make KanColle great again!
 
---
+
 
 さあ、暁の水平線に、勝利を刻みなさい！　 
 
