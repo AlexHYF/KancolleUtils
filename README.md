@@ -4,7 +4,7 @@
 
 ### What's KanColle
 
-Kan Colle (Kantai Collection) is a sea war simulating games in which you act as an admiral and lead <del>your wifes</del> the fleet girls (艦娘) to fight against the Abyssal Fleets (深海棲艦). KanColle is a browser based game with a very poor user-interface, since Kensuke Tanaka is such a hard core Navy maniac that he believes feeding players shit is the best way to express his love to IJN. Therefore to companste the poor UI, many plugins have been developed to help the players out. This project is aiming at making the development of Kancolle plugins easier.
+Kan Colle (Kantai Collection) is a sea war simulating games in which you act as an admiral and lead <del>your wifes</del> the fleet girls (艦娘) to fight against the Abyssal Fleets (深海棲艦). KanColle is a browser based game with a very poor user-interface, since Kensuke Tanaka is such a hard core Navy maniac that he believes feeding players shit is the best way to express his love to IJN. Therefore to compansate the poor UI, many plugins have been developed to help the players out. This project is aiming at making the development of Kancolle plugins easier.
 
 ### What to do
 
